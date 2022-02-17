@@ -1,0 +1,14 @@
+{
+function void sorting(numbers):
+  check each of the numbers inputted
+  sort the numbers by comparing them against each other
+
+  return sorted numbers
+
+end
+}
+{
+In the main function
+  print prompt "Enter numbers"
+  Input numbers into sorting function
+}
