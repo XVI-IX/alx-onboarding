@@ -1,0 +1,15 @@
+{
+function void sum_square(list):
+  calculate the square of each element in the list
+  sum the squares of all the elements
+
+  return sum
+
+end
+}
+
+{
+In the main function
+  print prompt "Input list"
+  input list into sum_square function
+}
