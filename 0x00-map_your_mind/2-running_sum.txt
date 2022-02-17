@@ -1,0 +1,14 @@
+{
+function void running_sum(number):
+  set sum to 0
+  if number is positive 
+    add number to sum
+
+  return sum
+end
+}
+{
+In the main function
+  print prompt "input number"
+  input number into running_sum function
+}
